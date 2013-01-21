@@ -1,2 +1,4 @@
 wp-content/themes
 wp-content/plugins
+.htaccess
+wp-config.php
